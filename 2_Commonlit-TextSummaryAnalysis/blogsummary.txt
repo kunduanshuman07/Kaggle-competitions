@@ -1,0 +1,1 @@
+a Bayesian take on model regularization Ryan Sander Follows Towards Data Science . the book is based on the principle of Occam’s Razor2 . one argument is that we are already imparted with prior beliefs about the world when we are born .
